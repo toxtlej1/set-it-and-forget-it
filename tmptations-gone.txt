@@ -1,0 +1,2 @@
+# A simple cron job to delete all tmp files at 9:00AM
+0 9 * * * rm -rf /tmp/*

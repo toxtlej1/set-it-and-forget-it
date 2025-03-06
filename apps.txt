@@ -1,0 +1,12 @@
+# CLI Tools
+git
+wget
+node
+python
+zsh
+
+# GUI Applications (Cask)
+cask:visual-studio-code
+cask:google-chrome
+cask:firefox
+cask:spotify
